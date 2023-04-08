@@ -7,9 +7,6 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  /* background-color: snow; */
-  /* background: url('image/floor-1256804.jpg'); */
-  background-color: rgb(251, 207, 40);
     background-image: url(https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=600);
     background-size: cover;
     background-position: left top;
